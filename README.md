@@ -26,6 +26,9 @@
 | 3D Biological Modeling | Molecular Visualization | Designed and animated 3D biological models (like the nuclear pore complex) using Spline.design and Tinkercad. |
 | DNA Replication Systems Study | Molecular Biology | Created a structured comparative study and visual on prokaryotic vs. eukaryotic DNA replication machinery and regulatory checkpoints. |
 | Fraud Alert System Prototype | Hackathon | Developed an automated fraud detection prototype focused on identifying security breaches and implementing real-time security logic. |
+### 🏆 Competitions & Certifications
+
+* 🥇 Hackathon Certificate of Participation / Achievement: Successfully built and presented a prototype for an Automated Fraud Alert System designed for real-time threat detection and security logic.
 
 ---
 
