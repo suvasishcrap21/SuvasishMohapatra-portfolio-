@@ -1,9 +1,8 @@
-# SuvasishMohapatra-portfolio-
+
 <h1 align="center">Hi there 👋, I'm Suvasish Mohapatra</h1>
 <h3 align="center">B.Tech Biotechnology Student | Researcher | Tech Enthusiast</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=suvasishcrap21&color=blueviolet&style=flat-square" alt="Profile Views" />
+<p align="center"
   <img src="https://img.shields.io/github/followers/suvasishcrap21?label=Follow&style=flat-square&color=blue" alt="Followers" />
   <img src="https://img.shields.io/badge/Focus-Biotechnology%20%7C%20R%26D-green?style=flat-square" alt="Focus">
 </p>
